@@ -1,0 +1,12 @@
+C:\Users\root\Documents\GitHub\Traffic\交通管理系统\Traffic\bin\Debug\Traffic.exe.config
+C:\Users\root\Documents\GitHub\Traffic\交通管理系统\Traffic\bin\Debug\Traffic.exe
+C:\Users\root\Documents\GitHub\Traffic\交通管理系统\Traffic\bin\Debug\Traffic.pdb
+C:\Users\root\Documents\GitHub\Traffic\交通管理系统\Traffic\obj\x86\Debug\MainWindow.baml
+C:\Users\root\Documents\GitHub\Traffic\交通管理系统\Traffic\obj\x86\Debug\MainWindow.g.cs
+C:\Users\root\Documents\GitHub\Traffic\交通管理系统\Traffic\obj\x86\Debug\App.g.cs
+C:\Users\root\Documents\GitHub\Traffic\交通管理系统\Traffic\obj\x86\Debug\Traffic_MarkupCompile.cache
+C:\Users\root\Documents\GitHub\Traffic\交通管理系统\Traffic\obj\x86\Debug\Traffic.g.resources
+C:\Users\root\Documents\GitHub\Traffic\交通管理系统\Traffic\obj\x86\Debug\Traffic.Properties.Resources.resources
+C:\Users\root\Documents\GitHub\Traffic\交通管理系统\Traffic\obj\x86\Debug\Traffic.csproj.GenerateResource.Cache
+C:\Users\root\Documents\GitHub\Traffic\交通管理系统\Traffic\obj\x86\Debug\Traffic.exe
+C:\Users\root\Documents\GitHub\Traffic\交通管理系统\Traffic\obj\x86\Debug\Traffic.pdb

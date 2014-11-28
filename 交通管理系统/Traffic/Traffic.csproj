@@ -64,6 +64,9 @@
       <DependentUpon>App.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="DAL\BaoJingRenDAL.cs" />
+    <Compile Include="DAL\CaseInfoDAL.cs" />
+    <Compile Include="DAL\JieJingRenDAL.cs" />
     <Compile Include="DAL\SqlHelper.cs" />
     <Compile Include="MainWindow.xaml.cs">
       <DependentUpon>MainWindow.xaml</DependentUpon>
@@ -71,6 +74,9 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Model\BaoJingRen.cs" />
+    <Compile Include="Model\CaseInfo.cs" />
+    <Compile Include="Model\JieJingRen.cs" />
     <Compile Include="Properties\AssemblyInfo.cs">
       <SubType>Code</SubType>
     </Compile>
@@ -96,7 +102,6 @@
     <AppDesigner Include="Properties\" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Model\" />
     <Folder Include="UI\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

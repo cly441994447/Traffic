@@ -6,7 +6,7 @@ using System.Configuration;
 using System.Data.SqlClient;
 using System.Data;
 
-namespace Traffic.DAL
+namespace CLYLibrary
 {
     public static class SqlHelper
     {
