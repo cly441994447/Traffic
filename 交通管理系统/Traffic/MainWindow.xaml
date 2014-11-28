@@ -3,6 +3,40 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         Title="MainWindow" Height="350" Width="525">
     <Grid>
-        
+        <DockPanel>
+            <Menu DockPanel.Dock="Top">
+                <MenuItem Header="接警记录">
+                    <MenuItem Header="案件相关信息等级">
+                        <MenuItem Header="案件录入"></MenuItem>
+                        <MenuItem Header="案件修改"></MenuItem>
+                        <MenuItem Header="案件删除"></MenuItem>
+                    </MenuItem>
+                </MenuItem>
+                <MenuItem Header="肇事方信息管理">
+                    <MenuItem Header="肇事方信息录入"></MenuItem>
+                    <MenuItem Header="肇事方信息修改"></MenuItem>
+                    <MenuItem Header="肇事方信息删除"></MenuItem>
+                </MenuItem>
+                <MenuItem Header="受害方信息管理">
+                    <MenuItem Header="受害方信息录入"></MenuItem>
+                    <MenuItem Header="受害方信息修改"></MenuItem>
+                    <MenuItem Header="受害方信息删除"></MenuItem>
+                </MenuItem>
+                <MenuItem Header="信息查询">
+                    <MenuItem Header="案件详情查询"></MenuItem>
+                    <MenuItem Header="受害者车辆信息查询"></MenuItem>
+                    <MenuItem Header="受害者信息查询"></MenuItem>
+                    <MenuItem Header="肇事者车辆信息查询"></MenuItem>
+                    <MenuItem Header="肇事者信息查询"></MenuItem>
+                </MenuItem>
+                <MenuItem Header="系统设置">
+                    <MenuItem Header="添加用户"></MenuItem>
+                    <MenuItem Header="注销用户"></MenuItem>
+                    <MenuItem Header="修改密码"></MenuItem>
+                    <MenuItem Header="退出登录"></MenuItem>
+                </MenuItem>
+            </Menu>
+            <Image DockPanel.Dock="Top"></Image>
+        </DockPanel>
     </Grid>
 </Window>
